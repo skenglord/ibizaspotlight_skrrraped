@@ -1,0 +1,297 @@
+[
+  {
+    "url": "https://www.ibiza-spotlight.com/night/events/eric-prydz-holosphere-mock-1",
+    "scrapedAt": "2025-05-26T07:03:23.734971+00:00",
+    "extractionMethod": "fallback",
+    "html": "<html><body><h1>Eric Prydz presents Holosphere 2.0</h1><p>At [UNVRS]. Ground-breaking visuals and immersive theatre from production specialist Eric Prydz.</p></body></html>",
+    "extractedData": {
+      "title": "Eric Prydz presents Holosphere 2.0",
+      "venue": "[UNVRS]",
+      "date_text": "Mon 30 Jun 23:30",
+      "price_text": "Early Entry 65€, General Admission 85€",
+      "description": "At [UNVRS]. Ground-breaking visuals and immersive theatre from production specialist Eric Prydz."
+    },
+    "title": "Eric Prydz presents Holosphere 2.0",
+    "location": {
+      "venue": "[UNVRS]",
+      "address": null,
+      "coordinates": null
+    },
+    "dateTime": {
+      "displayText": "Mon 30 Jun 23:30",
+      "parsed": {
+        "startDate": "2025-06-30T00:00:00",
+        "endDate": null,
+        "doors": "23:30"
+      },
+      "dayOfWeek": "Mon"
+    },
+    "lineUp": [],
+    "eventType": [],
+    "genres": [],
+    "ticketInfo": {
+      "displayText": "Early Entry 65€, General Admission 85€",
+      "startingPrice": 65.0,
+      "currency": "EUR",
+      "tiers": [
+        {
+          "name": "General Admission 2nd Release",
+          "price": 65.0,
+          "available": true
+        }
+      ],
+      "status": null,
+      "url": null
+    },
+    "promos": [],
+    "organizer": null,
+    "ageRestriction": null,
+    "images": [],
+    "socialLinks": {},
+    "fullDescription": "At [UNVRS]. Ground-breaking visuals and immersive theatre from production specialist Eric Prydz.",
+    "hasTicketInfo": true,
+    "isFree": false,
+    "isSoldOut": false,
+    "artistCount": 0,
+    "imageCount": 0,
+    "updatedAt": "2025-05-26T07:03:23.735332",
+    "lastCheckedAt": "2025-05-26T07:03:23.735332",
+    "ticketsUrl": null
+  },
+  {
+    "url": "https://www.ibiza-spotlight.com/night/events/amnesia-presents-mock-2",
+    "scrapedAt": "2025-05-26T07:03:23.735368+00:00",
+    "extractionMethod": "fallback",
+    "html": "<html><body><h1>Amnesia Presents</h1><p>The legendary Amnesia experience continues with world-class DJs.</p></body></html>",
+    "extractedData": {
+      "title": "Amnesia Presents",
+      "venue": "Amnesia",
+      "date_text": "Tue 01 Jul 00:00",
+      "price_text": "Early Entry 45€, General Admission 65€",
+      "description": "The legendary Amnesia experience continues with world-class DJs."
+    },
+    "title": "Amnesia Presents",
+    "location": {
+      "venue": "Amnesia",
+      "address": null,
+      "coordinates": null
+    },
+    "dateTime": {
+      "displayText": "Tue 01 Jul 00:00",
+      "parsed": {
+        "startDate": "2025-07-01T00:00:00",
+        "endDate": null,
+        "doors": "00:00"
+      },
+      "dayOfWeek": "Tue"
+    },
+    "lineUp": [],
+    "eventType": [],
+    "genres": [],
+    "ticketInfo": {
+      "displayText": "Early Entry 45€, General Admission 65€",
+      "startingPrice": 45.0,
+      "currency": "EUR",
+      "tiers": [
+        {
+          "name": "General Admission 2nd Release",
+          "price": 45.0,
+          "available": true
+        }
+      ],
+      "status": null,
+      "url": null
+    },
+    "promos": [],
+    "organizer": null,
+    "ageRestriction": null,
+    "images": [],
+    "socialLinks": {},
+    "fullDescription": "The legendary Amnesia experience continues with world-class DJs.",
+    "hasTicketInfo": true,
+    "isFree": false,
+    "isSoldOut": false,
+    "artistCount": 0,
+    "imageCount": 0,
+    "updatedAt": "2025-05-26T07:03:23.735389",
+    "lastCheckedAt": "2025-05-26T07:03:23.735389",
+    "ticketsUrl": null
+  },
+  {
+    "url": "https://www.ibiza-spotlight.com/night/events/do-not-sleep-mock-3",
+    "scrapedAt": "2025-05-26T07:03:23.735413+00:00",
+    "extractionMethod": "fallback",
+    "html": "<html><body><h1>Do Not Sleep</h1><p>Underground house and techno in the mystical setting of Cova Santa.</p></body></html>",
+    "extractedData": {
+      "title": "Do Not Sleep",
+      "venue": "Cova Santa",
+      "date_text": "Wed 02 Jul 22:00",
+      "price_text": "Early Entry 40€, General Admission 55€",
+      "description": "Underground house and techno in the mystical setting of Cova Santa."
+    },
+    "title": "Do Not Sleep",
+    "location": {
+      "venue": "Cova Santa",
+      "address": null,
+      "coordinates": null
+    },
+    "dateTime": {
+      "displayText": "Wed 02 Jul 22:00",
+      "parsed": {
+        "startDate": "2025-07-02T00:00:00",
+        "endDate": null,
+        "doors": "22:00"
+      },
+      "dayOfWeek": "Wed"
+    },
+    "lineUp": [],
+    "eventType": [],
+    "genres": [],
+    "ticketInfo": {
+      "displayText": "Early Entry 40€, General Admission 55€",
+      "startingPrice": 40.0,
+      "currency": "EUR",
+      "tiers": [
+        {
+          "name": "General Admission 2nd Release",
+          "price": 40.0,
+          "available": true
+        }
+      ],
+      "status": null,
+      "url": null
+    },
+    "promos": [],
+    "organizer": null,
+    "ageRestriction": null,
+    "images": [],
+    "socialLinks": {},
+    "fullDescription": "Underground house and techno in the mystical setting of Cova Santa.",
+    "hasTicketInfo": true,
+    "isFree": false,
+    "isSoldOut": false,
+    "artistCount": 0,
+    "imageCount": 0,
+    "updatedAt": "2025-05-26T07:03:23.735430",
+    "lastCheckedAt": "2025-05-26T07:03:23.735430",
+    "ticketsUrl": null
+  },
+  {
+    "url": "https://www.ibiza-spotlight.com/night/events/pacha-opening-mock-4",
+    "scrapedAt": "2025-05-26T07:03:23.735452+00:00",
+    "extractionMethod": "fallback",
+    "html": "<html><body><h1>Pacha Opening Party</h1><p>The iconic Pacha opens its doors for another legendary season.</p></body></html>",
+    "extractedData": {
+      "title": "Pacha Opening Party",
+      "venue": "Pacha",
+      "date_text": "Thu 03 Jul 23:00",
+      "price_text": "Early Entry 70€, General Admission 90€",
+      "description": "The iconic Pacha opens its doors for another legendary season."
+    },
+    "title": "Pacha Opening Party",
+    "location": {
+      "venue": "Pacha",
+      "address": null,
+      "coordinates": null
+    },
+    "dateTime": {
+      "displayText": "Thu 03 Jul 23:00",
+      "parsed": {
+        "startDate": "2025-07-03T00:00:00",
+        "endDate": null,
+        "doors": "23:00"
+      },
+      "dayOfWeek": "Thu"
+    },
+    "lineUp": [],
+    "eventType": [],
+    "genres": [],
+    "ticketInfo": {
+      "displayText": "Early Entry 70€, General Admission 90€",
+      "startingPrice": 70.0,
+      "currency": "EUR",
+      "tiers": [
+        {
+          "name": "General Admission 2nd Release",
+          "price": 70.0,
+          "available": true
+        }
+      ],
+      "status": null,
+      "url": null
+    },
+    "promos": [],
+    "organizer": null,
+    "ageRestriction": null,
+    "images": [],
+    "socialLinks": {},
+    "fullDescription": "The iconic Pacha opens its doors for another legendary season.",
+    "hasTicketInfo": true,
+    "isFree": false,
+    "isSoldOut": false,
+    "artistCount": 0,
+    "imageCount": 0,
+    "updatedAt": "2025-05-26T07:03:23.735467",
+    "lastCheckedAt": "2025-05-26T07:03:23.735467",
+    "ticketsUrl": null
+  },
+  {
+    "url": "https://www.ibiza-spotlight.com/night/events/ushuaia-closing-mock-5",
+    "scrapedAt": "2025-05-26T07:03:23.735488+00:00",
+    "extractionMethod": "fallback",
+    "html": "<html><body><h1>Ushuaïa Closing Festival</h1><p>The ultimate poolside party experience as Ushuaïa closes the season.</p></body></html>",
+    "extractedData": {
+      "title": "Ushuaïa Closing Festival",
+      "venue": "Ushuaïa",
+      "date_text": "Fri 04 Jul 16:00",
+      "price_text": "Early Entry 80€, General Admission 100€",
+      "description": "The ultimate poolside party experience as Ushuaïa closes the season."
+    },
+    "title": "Ushuaïa Closing Festival",
+    "location": {
+      "venue": "Ushuaïa",
+      "address": null,
+      "coordinates": null
+    },
+    "dateTime": {
+      "displayText": "Fri 04 Jul 16:00",
+      "parsed": {
+        "startDate": "2025-07-04T00:00:00",
+        "endDate": null,
+        "doors": "16:00"
+      },
+      "dayOfWeek": "Fri"
+    },
+    "lineUp": [],
+    "eventType": [],
+    "genres": [],
+    "ticketInfo": {
+      "displayText": "Early Entry 80€, General Admission 100€",
+      "startingPrice": 80.0,
+      "currency": "EUR",
+      "tiers": [
+        {
+          "name": "General Admission 2nd Release",
+          "price": 80.0,
+          "available": true
+        }
+      ],
+      "status": null,
+      "url": null
+    },
+    "promos": [],
+    "organizer": null,
+    "ageRestriction": null,
+    "images": [],
+    "socialLinks": {},
+    "fullDescription": "The ultimate poolside party experience as Ushuaïa closes the season.",
+    "hasTicketInfo": true,
+    "isFree": false,
+    "isSoldOut": false,
+    "artistCount": 0,
+    "imageCount": 0,
+    "updatedAt": "2025-05-26T07:03:23.735503",
+    "lastCheckedAt": "2025-05-26T07:03:23.735503",
+    "ticketsUrl": null
+  }
+]

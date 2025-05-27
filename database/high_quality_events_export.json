@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://ticketsibiza.com/event/amnesia-opening-2025/",
+    "dateTime": {
+      "start": "2025-06-01 23:00:00",
+      "displayText": "Sun 1 June 2025",
+      "timezone": "Europe/Madrid"
+    },
+    "extractionMethod": "jsonld",
+    "lineUp": [
+      {
+        "name": "Marco Carola",
+        "headliner": true,
+        "genre": "Techno"
+      }
+    ],
+    "location": {
+      "venue": "Amnesia",
+      "address": "Carretera Ibiza a San Antonio",
+      "city": "San Rafael",
+      "country": "Spain"
+    },
+    "scrapedAt": "2025-05-26 05:42:25.921000",
+    "ticketInfo": {
+      "status": "available",
+      "startingPrice": 50.0,
+      "currency": "EUR"
+    },
+    "title": "Amnesia Opening Party 2025"
+  }
+]

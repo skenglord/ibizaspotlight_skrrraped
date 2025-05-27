@@ -1,0 +1,17 @@
+# MongoDB Database Requirements
+pymongo==4.6.1
+python-dateutil==2.8.2
+pydantic==2.5.3  # For data validation
+motor==3.3.2  # For async MongoDB operations (optional)
+dnspython==2.4.2  # Required for MongoDB Atlas connections
+
+# API Server Requirements
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Google Sheets Export Requirements
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
